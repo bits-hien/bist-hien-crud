@@ -1,0 +1,12 @@
+body {
+    width: 800px;
+}
+
+div {
+    margin: 5px;
+}
+
+.profile {
+    height: 80px;
+    width: 400px ;
+}
